@@ -1,2 +1,2 @@
-# minhatrajet-ria
+# minhatrajetoria
 repositório da minha trajetória
