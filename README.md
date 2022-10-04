@@ -1,2 +1,2 @@
-# portfloio
+# portfolio
 portfolio da minha trajetória
