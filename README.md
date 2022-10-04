@@ -1,2 +1,2 @@
-# repositorio
-repositório da minha trajetória
+# portfloio
+portfolio da minha trajetória
